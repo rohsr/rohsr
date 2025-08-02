@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hey there, I'm Rohith!
+"Code is poetry. Data is the rhythm."
 
-<!--
-**rohsr/rohsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious human who loves solving problems, building cool things with data, and occasionally breaking stuff just to learn how to fix it better. 😅
 
-Here are some ideas to get you started:
+🧠 Data Analyst in the making, turning chaos into dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Fluent in Python, SQL, and dad jokes
+
+📊 Love working with Pandas, Power BI, and plots that tell stories
+
+🤖 Also dabble in automation — bots > spreadsheets any day
+
+🌱 Learning something new every single day (except maybe Sundays)
+
+"If it can be automated, it will be." — probably me, after too much coffee
+
+⚡ What you'll find here:
+Mini projects that turned into obsessions
+
+Code that’s messy before it’s beautiful
+
+Experiments with data, dashboards, and scraping the web
+
+Side quests like building job bots and designing cyberpunk portfolios
+
+📫 Let’s connect:
+💬 I'm always down to chat — LinkedIn
+
+🌍 Based in India, but always online somewhere
+
+☕ Fuelled by caffeine and curiosity
