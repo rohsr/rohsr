@@ -1,32 +1,29 @@
-👋 Hey there, I'm Rohith!
-"Code is poetry. Data is the rhythm."
+### Hey there, I'm Rohith 👋  
+*"Code is poetry. Data is the rhythm."*
 
-I'm a curious human who loves solving problems, building cool things with data, and occasionally breaking stuff just to learn how to fix it better. 😅
+I'm a data enthusiast who loves turning chaos into charts and boring spreadsheets into bots.  
+Currently building cool stuff with Python, SQL, and Power BI — and occasionally Googling how to fix what I just broke. 😅
 
-🧠 Data Analyst in the making, turning chaos into dashboards
+---
 
-🐍 Fluent in Python, SQL, and dad jokes
+**🛠️ Tech Stack I Use:**  
+- Python | SQL | Power BI  
+- Pandas | Matplotlib | Seaborn  
+- Streamlit | Git | Excel | Selenium  
 
-📊 Love working with Pandas, Power BI, and plots that tell stories
+---
 
-🤖 Also dabble in automation — bots > spreadsheets any day
+**⚡ What You'll Find Here:**  
+- Projects that start small and turn big  
+- Data storytelling dashboards  
+- Automation bots (because I'm lazy in a smart way)  
+- Random experiments and half-finished ideas  
 
-🌱 Learning something new every single day (except maybe Sundays)
+> *"If it can be automated, it will be."* — Me, probably after too much coffee  
 
-"If it can be automated, it will be." — probably me, after too much coffee
+---
 
-⚡ What you'll find here:
-Mini projects that turned into obsessions
+**📫 Let’s Connect:**  
+[LinkedIn](https://www.linkedin.com/in/rohiths98)  
+Based in India | Always up for data collabs or techy convos
 
-Code that’s messy before it’s beautiful
-
-Experiments with data, dashboards, and scraping the web
-
-Side quests like building job bots and designing cyberpunk portfolios
-
-📫 Let’s connect:
-💬 I'm always down to chat — LinkedIn
-
-🌍 Based in India, but always online somewhere
-
-☕ Fuelled by caffeine and curiosity
